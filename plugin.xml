@@ -134,7 +134,7 @@
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
         </config-file>
         
-        <source-file src="src/assets/icon.png" target-dir="res/drawable" />
+        <source-file src="src/assets/icon2.png" target-dir="res/drawable" />
 
         <source-file
             src="src/android/LocalNotification.java"
